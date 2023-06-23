@@ -1,8 +1,8 @@
 # Documentation_TSSR
 
-Documentation TSSR à été crée en markdown avec [mkdocs](https://www.mkdocs.org/)
+Documentation TSSR à été crée en markdown et affiché avec [mkdocs](https://www.mkdocs.org/) qui un générateur de site static.
 
-accés à la [doc de mkdocs](https://www.mkdocs.org/getting-started/)
+### Accés à la [doc de mkdocs](https://www.mkdocs.org/getting-started/)
 
 ## installation sur windows : 
 - installer python3  (google)
