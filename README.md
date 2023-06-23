@@ -1,6 +1,6 @@
 # Documentation_TSSR
 
-Documentation TSSR à été crée en markdown et affiché avec [mkdocs](https://www.mkdocs.org/) qui un générateur de site static.
+Documentation TSSR à été crée en markdown et affiché avec [mkdocs](https://www.mkdocs.org/) qui est un générateur de site static.
 
 ### Accés à la [doc de mkdocs](https://www.mkdocs.org/getting-started/)
 
