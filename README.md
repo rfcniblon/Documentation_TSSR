@@ -12,18 +12,18 @@ installation sur windows :
     - tapez: cd Memo  (pour être dans le repertoire Memo)
     - et enfin tapez: mkdocs serve    (pour lancer le serveur)
       dans les lignes qui vont apparaitrent l'adresse ip du serveur sera affiché  (ici 127.0.0.1:8000)
-        INFO    -  Building documentation...
-        INFO    -  Cleaning site directory
-       [I 160402 15:50:43 server:271] Serving on http://127.0.0.1:8000
-       [I 160402 15:50:43 handlers:58] Start watching changes
-       [I 160402 15:50:43 handlers:60] Start detecting changes
+             INFO    -  Building documentation...
+             INFO    -  Cleaning site directory
+             [I 160402 15:50:43 server:271] Serving on http://127.0.0.1:8000
+             [I 160402 15:50:43 handlers:58] Start watching changes
+             [I 160402 15:50:43 handlers:60] Start detecting changes
 
   Structure:
   - la documentation est structuré comme l'image ci-dessous
  
-    C:.
-    |_______docs
-            |-----css
-            |-----images
-            |-----pages
-            |-----procedures
+        C:.
+        |_______docs
+                |-----css
+                |-----images
+                |-----pages
+                |-----procedures
