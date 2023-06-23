@@ -2,8 +2,8 @@
 
 Documentation TSSR à été crée en markdown avec mkdocs
 
-* installation sur windows : 
-- installer python3
+## installation sur windows : 
+- installer python3  (google)
 - puis dans une invite cmd
     - vous tapez:   mkdir Aide  (cela va créer un repertorie nommer Aide)
     - puis tapez: cd Aide (pour être dans le repertoire)
