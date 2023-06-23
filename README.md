@@ -27,3 +27,9 @@ installation sur windows :
                 |-----images
                 |-----pages
                 |-----procedures
+
+             répertoires :
+                css     => en test pour injecter du css
+                images =>  toutes les images seront dans le repertoire
+                pages =>  toutes les pages de la documentation seront ici
+                procedures => toutes les procédures seront ici
