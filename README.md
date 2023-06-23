@@ -20,7 +20,7 @@ installation sur windows :
              [I 160402 15:50:43 handlers:58] Start watching changes
              [I 160402 15:50:43 handlers:60] Start detecting changes
 
-  Structure:
+ [color=blue] Structure:[/color]
   - la documentation est structuré comme l'image ci-dessous
  
         C:.
