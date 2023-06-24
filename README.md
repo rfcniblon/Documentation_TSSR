@@ -39,21 +39,16 @@ Documentation TSSR à été crée en markdown et affiché avec [mkdocs](https://
     - Après l'installation, vous devriez pouvoir utiliser Pandoc en exécutant des commandes depuis l'invite de commandes ou PowerShell.
 
 ## Installer Pandoc sur Ubuntu :
-    - Ouvrez un terminal sur votre système Ubuntu.
-        - Utilisez le gestionnaire de paquets APT pour installer Pandoc en exécutant la commande suivante :
-                sudo apt-get update
-                sudo apt-get install pandoc
-    - Saisissez votre mot de passe administrateur lorsque vous y êtes invité.
- - Attendez que l'installation soit terminée. Une fois le processus terminé, Pandoc sera installé sur votre système Ubuntu.
-
-        - Vous pouvez vérifier si Pandoc est correctement installé en exécutant la commande suivante dans le terminal :
-
-bash
-Copy code
-pandoc --version
-Cela affichera la version de Pandoc installée sur votre système, ce qui confirmera que l'installation a été réussie.
-
-        -Notez que les étapes ci-dessus sont des instructions générales et peuvent varier légèrement en fonction de votre système et de la version de Pandoc que vous téléchargez. Assurez-vous de consulter la documentation officielle de Pandoc pour obtenir des informations spécifiques à votre configuration.
+- Ouvrez un terminal sur votre système Ubuntu.
+- Utilisez le gestionnaire de paquets APT pour installer Pandoc en exécutant la commande suivante :
+      sudo apt-get update
+        sudo apt-get install pandoc
+- Saisissez votre mot de passe administrateur lorsque vous y êtes invité.
+- Attendez que l'installation soit terminée. Une fois le processus terminé, Pandoc sera installé sur votre système Ubuntu.
+- Vous pouvez vérifier si Pandoc est correctement installé en exécutant la commande suivante dans le terminal :
+        pandoc --version
+- Cela affichera la version de Pandoc installée sur votre système, ce qui confirmera que l'installation a été réussie.
+- Notez que les étapes ci-dessus sont des instructions générales et peuvent varier légèrement en fonction de votre système et de la version de Pandoc que vous téléchargez. Assurez-vous de consulter la documentation officielle de Pandoc pour obtenir des informations spécifiques à votre configuration.
 
   Structure:
   - la documentation est structuré comme l'image ci-dessous
