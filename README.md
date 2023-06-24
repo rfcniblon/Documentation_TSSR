@@ -1,3 +1,4 @@
+
 # Documentation_TSSR
 
 Documentation TSSR à été crée en markdown et affiché avec [mkdocs](https://www.mkdocs.org/) qui est un générateur de site static,nous utilisons aussi, . [pandoc](https://pandoc.org) pour nous géneré toutes les procédure qui sont au format .md nous genère au format .pdf
@@ -50,8 +51,8 @@ Documentation TSSR à été crée en markdown et affiché avec [mkdocs](https://
 - Cela affichera la version de Pandoc installée sur votre système, ce qui confirmera que l'installation a été réussie.
 - Notez que les étapes ci-dessus sont des instructions générales et peuvent varier légèrement en fonction de votre système et de la version de Pandoc que vous téléchargez. Assurez-vous de consulter la documentation officielle de Pandoc pour obtenir des informations spécifiques à votre configuration.
 
-  Structure:
-  - la documentation est structuré comme l'image ci-dessous
+# Structure de la documentation:
+  - la documentation est structurée comme le shéma ci-dessous
  
         C:.
         |_______docs
@@ -68,3 +69,5 @@ Documentation TSSR à été crée en markdown et affiché avec [mkdocs](https://
                 images =>  toutes les images seront dans le repertoire
                 pages =>  toutes les pages de la documentation seront ici
                 procedures => toutes les procédures seront ici
+## Convertion Automatique
+
