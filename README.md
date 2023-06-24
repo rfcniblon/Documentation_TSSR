@@ -1,6 +1,6 @@
 # Documentation_TSSR
 
-Documentation TSSR à été crée en markdown et affiché avec [mkdocs](https://www.mkdocs.org/) qui est un générateur de site static.
+Documentation TSSR à été crée en markdown et affiché avec [mkdocs](https://www.mkdocs.org/) qui est un générateur de site static,nous utilisons aussi, . [pandoc](https://pandoc.org) pour nous géneré toutes les procédure qui sont au format .md nous genère au format .pdf
 
 ### Accés à la [doc de mkdocs](https://www.mkdocs.org/getting-started/)
 
@@ -31,11 +31,9 @@ Documentation TSSR à été crée en markdown et affiché avec [mkdocs](https://
              [I 160402 15:50:43 handlers:58] Start watching changes
              [I 160402 15:50:43 handlers:60] Start detecting changes
 
-      Pour installer Pandoc sur Windows 10, vous pouvez suivre ces étapes :
-
-Rendez-vous sur le site officiel de Pandoc à l'adresse suivante : https://pandoc.org/.
-
-Dans la section "Download", recherchez la version appropriée pour Windows et téléchargez le fichier d'installation correspondant (par exemple, pandoc-X.X.X-windows-x86_64.msi, où "X.X.X" représente le numéro de version).
+      # Installation Pandoc sur Windows 10, vous pouvez suivre ces étapes :
+    - Rendez-vous sur le site officiel de Pandoc à l'adresse suivante : https://pandoc.org/.
+        - Dans la section "Download", recherchez la version appropriée pour Windows et téléchargez le fichier d'installation correspondant (par exemple, pandoc-X.X.X-windows-x86_64.msi, où "X.X.X" représente le numéro de version).
 
 Une fois le téléchargement terminé, exécutez le fichier d'installation téléchargé.
 
