@@ -31,15 +31,33 @@ Documentation TSSR à été crée en markdown et affiché avec [mkdocs](https://
              [I 160402 15:50:43 handlers:58] Start watching changes
              [I 160402 15:50:43 handlers:60] Start detecting changes
 
-      # Installation Pandoc sur Windows 10, vous pouvez suivre ces étapes :
+# Installation Pandoc sur Windows 10, vous pouvez suivre ces étapes :
     - Rendez-vous sur le site officiel de Pandoc à l'adresse suivante : https://pandoc.org/.
         - Dans la section "Download", recherchez la version appropriée pour Windows et téléchargez le fichier d'installation correspondant (par exemple, pandoc-X.X.X-windows-x86_64.msi, où "X.X.X" représente le numéro de version).
+        - Une fois le téléchargement terminé, exécutez le fichier d'installation téléchargé.
+        - Suivez les instructions de l'assistant d'installation pour installer Pandoc sur votre système Windows.
+        - Après l'installation, vous devriez pouvoir utiliser Pandoc en exécutant des commandes depuis l'invite de commandes ou PowerShell.
 
-Une fois le téléchargement terminé, exécutez le fichier d'installation téléchargé.
+# Installer Pandoc sur Ubuntu, vous pouvez suivre ces étapes :
+        - Ouvrez un terminal sur votre système Ubuntu.
+        - Utilisez le gestionnaire de paquets APT pour installer Pandoc en exécutant la commande suivante :
 
-Suivez les instructions de l'assistant d'installation pour installer Pandoc sur votre système Windows.
+bash
+Copy code
+sudo apt-get update
+sudo apt-get install pandoc
+Saisissez votre mot de passe administrateur lorsque vous y êtes invité.
 
-Après l'installation, vous devriez pouvoir utiliser Pandoc en exécutant des commandes depuis l'invite de commandes ou PowerShell.
+        - Attendez que l'installation soit terminée. Une fois le processus terminé, Pandoc sera installé sur votre système Ubuntu.
+
+        - Vous pouvez vérifier si Pandoc est correctement installé en exécutant la commande suivante dans le terminal :
+
+bash
+Copy code
+pandoc --version
+Cela affichera la version de Pandoc installée sur votre système, ce qui confirmera que l'installation a été réussie.
+
+        -Notez que les étapes ci-dessus sont des instructions générales et peuvent varier légèrement en fonction de votre système et de la version de Pandoc que vous téléchargez. Assurez-vous de consulter la documentation officielle de Pandoc pour obtenir des informations spécifiques à votre configuration.
 
   Structure:
   - la documentation est structuré comme l'image ci-dessous
