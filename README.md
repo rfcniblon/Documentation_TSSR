@@ -1,7 +1,7 @@
 
 # Documentation_TSSR
 
-Documentation TSSR à été crée en markdown et affiché avec [mkdocs](https://www.mkdocs.org/) qui est un générateur de site static,nous utilisons aussi, . [pandoc](https://pandoc.org) pour nous géneré toutes les procédure qui sont au format .md nous genère au format .pdf
+Documentation TSSR à été crée en markdown et affiché avec [mkdocs](https://www.mkdocs.org/) qui est un générateur de site static,nous utilisons aussi,[pandoc](https://pandoc.org) pour nous géneré toutes les procédure qui sont au format .md en format .pdf
 
 ### Accés à la [doc de mkdocs](https://www.mkdocs.org/getting-started/)
 
