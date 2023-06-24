@@ -2,10 +2,130 @@ site_name: Système et réseaux
 nav:
     - Accueil: index.md
     - Microsoft: ./pages/microsoft.md
-    - Powershell: ./pages/powershell.md
-    - VMware: ./pages/vmware.md
-   
+    - Cours :
+        - Microsoft 365 Outils collaboratifs: './pages/microsoft.md'
+        - Base des réseaux: 
+            - Le modèle OSI: 
+                  - Objectifs: ./pages/powershell.md
+                  - Présentation du modèle OSI et définitions: './pages/vmware.md' 
+                  - Les couches OSI: ./pages/powershell.md
+                  - La communication entre les couches: './pages/vmware.md' 
+                  - Les ports: ./pages/powershell.md
+                  - L'encapsulation: './pages/vmware.md' 
+                  - Modèle OSI: ./pages/powershell.md
+                  - Exemple de communication: './pages/vmware.md' 
+                  - La couche physique: ./pages/powershell.md
+                  - La couche Liaison: './pages/vmware.md' 
+                  - La couche Réseau: ./pages/powershell.md
+                  - La couche Transport: './pages/vmware.md' 
+            - Les unités informatiques:
+                  - Objectifs: ./pages/powershell.md
+                  - Les bases de numération: './pages/vmware.md' 
+                  - Principe de numération décimale: ./pages/powershell.md
+                  - Principe de numération binaire: './pages/vmware.md' 
+                  - Principe de numération octale: ./pages/powershell.md
+                  - Principe de numération héxadécimale: './pages/vmware.md' 
+                  - Equivalence des valeurs: ./pages/powershell.md
+                  - Conversion décimale/binaire: './pages/vmware.md' 
+                  - Conversion binaire/décimale: ./pages/powershell.md
+                  - Conversion décimale/octale: './pages/vmware.md' 
+                  - Conversion octale/décimale: './pages/vmware.md' 
+                  - Conversion décimale/héxadécimale: ./pages/powershell.md
+                  - Conversion héxadécimale/décimale: './pages/vmware.md' 
+                  - Conversion Les différentes unités informatique: ./pages/powershell.md
+                  - Les préfixes et équivalence des unités: './pages/vmware.md' 
+                  - Demonstration: './pages/vmware.md'
+            - L'adressage IPv4:
+                  - Objectifs: ./pages/powershell.md
+                  - Les bases de numération: './pages/vmware.md' 
+                  - Présentation de l'adressage IPv4: ./pages/powershell.md
+                  - Les classes IPv4: './pages/vmware.md' 
+                  - Démonstration - Les classes IPv4: ./pages/powershell.md
+                  - Calcul des adresses: './pages/vmware.md' 
+                  - Démonstration - Les types d'adresses IPv4: ./pages/powershell.md
+                  - La Notation CIDR: './pages/vmware.md' 
+                  - Démonstration - La notation CIDR: ./pages/powershell.md
+                  - Les adresses privées: './pages/vmware.md' 
+                  - Les adresses APIPA: './pages/vmware.md' 
+                  - Les sous-réseaux: ./pages/powershell.md
+                  - Démonstration - Calcul des adresses réseaux: './pages/vmware.md' 
+            - La communication:
+                  - Powershell: ./pages/powershell.md
+                  - VMware: './pages/vmware.md' 
+            - Les premières:
+                  - Powershell: ./pages/powershell.md
+                  - VMware: './pages/vmware.md' 
+            - L'adressage IPv6:
+                  - Powershell: ./pages/powershell.md
+                  - VMware: './pages/vmware.md' 
+        - Système clients Microsoft: 
+             - Les système d'exploitation et Microsoft Windows 10: './pages/microsoft.md'
+             - Installation de Windows 10:
+                   - Powershell: ./pages/powershell.md
+                   - VMware: './pages/vmware.md' 
+             - Module additionnel VMware Workstation:
+                   - Objectif du module: ./pages/powershell.md
+                   - La virtualisation des systèmes: './pages/vmware.md' 
+                   - VMware Workstation et ses spécificités: ./pages/powershell.md
+                   - Démonstration - Création d'une vm: './pages/vmware.md' 
+                   - Import et export de VM: ./pages/powershell.md
+                   - Démonstration - Import et export de VM: './pages/vmware.md' 
+             - Interagir avec Windows 10:
+                   - Objectif du module: ./pages/powershell.md
+                   - La virtualisation des systèmes: './pages/vmware.md'  
+             - La gestion du stockage:
+                   - Objectif du module: ./pages/powershell.md
+                   - La virtualisation des systèmes: './pages/vmware.md' 
+             - Les utilisateurs et les groupes:
+                   - Objectif du module: ./pages/powershell.md
+                   - La virtualisation des systèmes: './pages/vmware.md'
+             - La sécurité NTFS et les ACL:
+                   - Objectif du module: ./pages/powershell.md
+                   - La virtualisation des systèmes: './pages/vmware.md'
+             - La géstion du réseau et du pare-feu:
+                   - Objectif du module: ./pages/powershell.md
+                   - La virtualisation des systèmes: './pages/vmware.md' 
+             - Le partage de ressources:
+                   - Objectif du module: ./pages/powershell.md
+                   - La virtualisation des systèmes: './pages/vmware.md'
+             - Les pilotes et les imprimantes:
+                   - Objectif du module: ./pages/powershell.md
+                   - La virtualisation des systèmes: './pages/vmware.md' 
+             - Maintenance du système:
+                   - Objectif du module: ./pages/powershell.md
+                   - La virtualisation des systèmes: './pages/vmware.md' 
+             - Plus loin avec PowerShell:
+                   - Objectif du module: ./pages/powershell.md
+                   - La redirection de flux: './pages/vmware.md' 
+                   - Démonstration - Redirection de flux: ./pages/powershell.md
+                   - Le pipeline: './pages/vmware.md'
+                   - Démonstration - Le pipeline: ./pages/powershell.md
+                   - Le filtrage basique: './pages/vmware.md'
+                   - Démonstration - le filtrage basique: ./pages/powershell.md
+                   - Le filtrage avancé: './pages/vmware.md'
+                   - Démonstration - Le filtrage avancé: ./pages/powershell.md
+                   - Le formatage: './pages/vmware.md'
+                   - Démonstration - Le formatage: ./pages/powershell.md
+                   - Conclusion: './pages/vmware.md'
+                  
+             - Introduction à la capture et au déploiement d'images:
+                   - Objectif du module: ./pages/powershell.md
+                   - Introduction à la capture et au déploiement d'images: './pages/vmware.md'
+                   - Le master: ./pages/powershell.md
+                   - Démonstration - Créer un master: './pages/vmware.md'
+                   - Exploitation d'un master: ./pages/powershell.md
+                   - Deploiement d'une image: './pages/vmware.md'
+                   - Démonstration - Déployer l'image sur le poste cible: ./pages/powershell.md
+                   - Conclusion: './pages/vmware.md'
+             - Les stratégies de groupe local:
+                   - Objectif du module: ./pages/powershell.md
+                   - La base de registre: './pages/vmware.md' 
+                   - Les LGPO: ./pages/powershell.md
+                   - Démonstration - Les LGPO: './pages/vmware.md' 
+                   - Conclusion: ./pages/powershell.md
+
+    - Outils: './pages/outils.md'
+
 theme:
     name: mkdocs
     extra_css: extra.css
-    
