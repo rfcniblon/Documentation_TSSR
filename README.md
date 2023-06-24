@@ -29,9 +29,12 @@ Documentation TSSR à été crée en markdown et affiché avec [mkdocs](https://
         |_______docs
                 |-----css
                 |-----images
+                      |-----procèdures
+                            |-----vmware
+                            |-----windows
                 |-----pages
-                |-----procedures
-
+                |-----procèdures
+    
              répertoires :
                 css     => en test pour injecter du css
                 images =>  toutes les images seront dans le repertoire
