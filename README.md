@@ -32,14 +32,14 @@ Documentation TSSR à été crée en markdown et affiché avec [mkdocs](https://
              [I 160402 15:50:43 handlers:60] Start detecting changes
 
 # Installation Pandoc sur Windows 10, vous pouvez suivre ces étapes :
-    - Rendez-vous sur le site officiel de Pandoc à l'adresse suivante : https://pandoc.org/.
-        - Dans la section "Download", recherchez la version appropriée pour Windows et téléchargez le fichier d'installation correspondant (par exemple, pandoc-X.X.X-windows-x86_64.msi, où "X.X.X" représente le numéro de version).
-        - Une fois le téléchargement terminé, exécutez le fichier d'installation téléchargé.
-        - Suivez les instructions de l'assistant d'installation pour installer Pandoc sur votre système Windows.
-        - Après l'installation, vous devriez pouvoir utiliser Pandoc en exécutant des commandes depuis l'invite de commandes ou PowerShell.
+- Rendez-vous sur le site officiel de Pandoc à l'adresse suivante : https://pandoc.org/.
+  - Dans la section "Download", recherchez la version appropriée pour Windows et téléchargez le fichier d'installation correspondant (par exemple, pandoc-X.X.X-windows-x86_64.msi, où "X.X.X" représente le numéro de version).
+    - Une fois le téléchargement terminé, exécutez le fichier d'installation téléchargé.
+    - Suivez les instructions de l'assistant d'installation pour installer Pandoc sur votre système Windows.
+    - Après l'installation, vous devriez pouvoir utiliser Pandoc en exécutant des commandes depuis l'invite de commandes ou PowerShell.
 
 # Installer Pandoc sur Ubuntu, vous pouvez suivre ces étapes :
-        - Ouvrez un terminal sur votre système Ubuntu.
+    - Ouvrez un terminal sur votre système Ubuntu.
         - Utilisez le gestionnaire de paquets APT pour installer Pandoc en exécutant la commande suivante :
 
 bash
